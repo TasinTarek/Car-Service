@@ -1,0 +1,49 @@
+[
+    {  "Id": "0001",
+      "name": "Engine Oil Change",
+      "price": 200,
+      "time": 1,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio tempore pariatur obcaecati quidem ad voluptatum officiis eveniet, accusamus, quis deserunt earum illo molestias vel tempora eius harum minus repellendus? Iusto!",
+      "img": "https://i.ibb.co/7Cqz67S/close-up-hands-unrecognizable-mechanic-doing-car-service-maintenance.png"
+    },
+    {  
+        "Id": "0002",
+      "name": "Rescue Service",
+      "price": 1000,
+      "time": 2,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio tempore pariatur obcaecati quidem ad voluptatum officiis eveniet, accusamus, quis deserunt earum illo molestias vel tempora eius harum minus repellendus? Iusto!",
+      "img": "https://i.ibb.co/7kYp1Kc/car-mechanic-changing-wheels-car.png"
+    },
+    {
+        "Id": "0003",
+      "name": "Car Tuning",
+      "price": 10000,
+      "time": 6,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio tempore pariatur obcaecati quidem ad voluptatum officiis eveniet, accusamus, quis deserunt earum illo molestias vel tempora eius harum minus repellendus? Iusto!",
+      "img": "https://i.ibb.co/48z6ycy/car-mechanic-wearing-white-uniform-stand-holding-wrench.png"
+    },
+    {
+        "Id": "0004",
+      "name": "Color",
+      "price": 5000,
+      "time": 3,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio tempore pariatur obcaecati quidem ad voluptatum officiis eveniet, accusamus, quis deserunt earum illo molestias vel tempora eius harum minus repellendus? Iusto!",
+      "img": "https://i.ibb.co/pLLgd25/auto-mechanic-checking-car.png"
+    },
+    {
+        "Id": "0005",
+      "name": "Replace Tire",
+      "price": 200,
+      "time": 2,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio tempore pariatur obcaecati quidem ad voluptatum officiis eveniet, accusamus, quis deserunt earum illo molestias vel tempora eius harum minus repellendus? Iusto!",
+      "img": "https://i.ibb.co/SmS5r0F/smiling-mechanic-changing-wheel-car-with-pneumatic-wrench-looking-front.png"
+    },
+    { 
+        "Id": "0006",
+      "name": "Engine Tuning",
+      "price": 2000,
+      "time": 6,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio tempore pariatur obcaecati quidem ad voluptatum officiis eveniet, accusamus, quis deserunt earum illo molestias vel tempora eius harum minus repellendus? Iusto!",
+      "img": "https://i.ibb.co/cDMj5w7/young-man-making-diagnostics-vehicle.png"
+    }
+  ]
